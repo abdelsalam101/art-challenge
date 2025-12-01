@@ -50,7 +50,7 @@ src/
 
 ## 🌐 Live Demo
 
-Check out the app online: [The Art Connoisseur’s Challenge](https://your-vercel-link.vercel.app/) 🚀
+Check out the app online: [The Art Connoisseur’s Challenge](https://art-challenge.vercel.app/) 🚀
 
 ## 💡 Inspiration
 
